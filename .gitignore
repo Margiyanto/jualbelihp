@@ -1,14 +1,9 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+---- BEGIN SSH2 PUBLIC KEY ----
+Comment: "rsa-key-20200424"
+AAAAB3NzaC1yc2EAAAABJQAAAQEAooPCzu9/l5ZurMyu8kne4OyoKV4AYLezJuXC
+fnOAYjOHJ6n3c9e1HQQ5pyW1KIvE22NhADYdQRcAOQVMLmOrwI0DjBM1G7uT+2JO
+GiQpjUaMmHqftx0ic8//qBUr/ikbhBglL63VxgomfPu+CpfIlBiH2ALHW4rSlZrs
+KppFpe44Bm8pP+632HqJQPtlxT1QxSddiDatQQ4DBn3kLXXWNioqZK1fcjvJbAZh
+enm9pO/7JREO2br6uxVIWwj5F8nnNOsf//iHe9euxJdTYcJPfHlC7O2GcfUedQPM
+HBTuOUgCKwhnAVrVL1Oyu8wxOTfF2PWJk/BgFhHfPtRtsfZT5w==
+---- END SSH2 PUBLIC KEY ----
